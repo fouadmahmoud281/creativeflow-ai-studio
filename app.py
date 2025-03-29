@@ -860,7 +860,7 @@ def main():
     # Footer with modern styling
     st.markdown("""
     <footer>
-        <p>CreativeFlow AI Studio © 2025 | Powered by Together AI</p>
+        <p>CreativeFlow AI Studio © 2025 | made by Fouad Mahmoud</p>
         <p style="font-size: 0.8rem; margin-top: 5px;">A professional content generation pipeline for creative agencies</p>
     </footer>
     """, unsafe_allow_html=True)
