@@ -36,7 +36,7 @@ CreativeFlow AI Studio is an all-in-one content creation platform that leverages
     <tr>
       <td align="center" width="33%">
         <h3>Projects</h3>
-        <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Folder/SVG/ic_fluent_folder_24_regular.svg" width="40"/>
+        <img src="https://drive.google.com/file/d/1Oh941XhV2getyk1gZIM2D87X-E4_AE5m/view?usp=sharing" width="40"/>
         <p>Organize assets by campaign, client, or initiative</p>
       </td>
       <td align="center" width="33%">
