@@ -1,7 +1,7 @@
 # CreativeFlow AI Studio
 
 <div align="center">
-  <img src="https://i.imgur.com/oD5cco0.png" alt="CreativeFlow Logo" height="100"/>
+  <img src="https://i.imgur.com/oD5cco0.png" alt="CreativeFlow Logo"/>
   <p><em>Supercharge your creative workflow with AI-powered content generation and management</em></p>
 </div>
 
