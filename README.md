@@ -1,7 +1,7 @@
 # CreativeFlow AI Studio
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Create/SVG/ic_fluent_create_48_regular.svg" alt="CreativeFlow Logo" height="100"/>
+  <img src="https://imgur.com/a/zMXVeet" alt="CreativeFlow Logo" height="100"/>
   <p><em>Supercharge your creative workflow with AI-powered content generation and management</em></p>
 </div>
 
