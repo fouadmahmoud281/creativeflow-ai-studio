@@ -1,7 +1,7 @@
 # CreativeFlow AI Studio
 
 <div align="center">
-  <img src="https://imgur.com/a/zMXVeet" alt="CreativeFlow Logo" height="100"/>
+  <img src="https://i.imgur.com/oD5cco0.png" alt="CreativeFlow Logo" height="100"/>
   <p><em>Supercharge your creative workflow with AI-powered content generation and management</em></p>
 </div>
 
@@ -36,7 +36,7 @@ CreativeFlow AI Studio is an all-in-one content creation platform that leverages
     <tr>
       <td align="center" width="33%">
         <h3>Projects</h3>
-        <img src="https://drive.google.com/file/d/1Oh941XhV2getyk1gZIM2D87X-E4_AE5m/view?usp=sharing" width="40"/>
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Folder/SVG/ic_fluent_folder_24_regular.svg" width="40"/>
         <p>Organize assets by campaign, client, or initiative</p>
       </td>
       <td align="center" width="33%">
